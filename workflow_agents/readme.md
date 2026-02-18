@@ -74,5 +74,3 @@
 5.  เมื่อกระบวนการเสร็จสิ้น ไฟล์รายงานจะถูกสร้างขึ้นในไดเรกทอรี `adk_multiagent_systems/historical_verdicts/`
 
 ---
-
-This project is created for the Multi-Agent System homework assignment.
